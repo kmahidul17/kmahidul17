@@ -72,5 +72,5 @@
 <a href="https://github.com/kmahidul17/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kmahidul17">
 </a>
-<a href="https://github.com/kmahidul17=?tab=followers"><img src="https://img.shields.io/github/followers/kmahidul17?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kmahidul17?tab=followers"><img src="https://img.shields.io/github/followers/kmahidul17?label=Followers&style=social" alt="GitHub Badge"></a>
 
