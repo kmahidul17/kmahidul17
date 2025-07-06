@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Studying BSc in CSE at **Primeasia University**
-- 🔒 **Cybersecurity Specialist** (Jr.) at **Bdtask Limited**
+- 🔒 **Cybersecurity Specialist** (Jr.)
 - 💼 Focused on **Penetration Testing, Vulnerability Assessment, Ethical Hacking**
 - 📚 Learning **Data Structures, Algorithms**, and **Advanced Security Testing**
 - ✍️ Published on Exploit-DB: *"Files Containing Juicy Info"* – [Read here](https://www.exploit-db.com/)
@@ -25,15 +25,17 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </p>
 
-### 🌐 Front-End & Back-End
-<p>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png"/>
+<p align="left">
+    <!-- Security Tools -->
+    <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp Suite"/>
+    <img src="https://img.icons8.com/color/48/000000/network-card.png" alt="Nmap"/>
+    <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-cybersecurity-computer-security-flaticons-flat-flat-icons.png" alt="Nessus"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-metasploit-a-project-that-provides-information-about-security-vulnerabilities-logo-color-tal-revivo.png" alt="Metasploit"/>
+    <img src="https://img.icons8.com/fluency/48/000000/linux.png" alt="Linux"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/zap.png" alt="OWASP ZAP" style="background:#f48024;border-radius:8px;"/>
+    
 </p>
+
 
 ### 🧪 Cybersecurity Tools
 <p>
