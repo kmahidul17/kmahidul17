@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Studying BSc in CSE at **Primeasia University** – CGPA: **3.70/4.00**
+- 🎓 Studying BSc in CSE at **Primeasia University**
 - 🔒 **Cybersecurity Specialist** (Jr.) at **Bdtask Limited**
 - 💼 Focused on **Penetration Testing, Vulnerability Assessment, Ethical Hacking**
 - 📚 Learning **Data Structures, Algorithms**, and **Advanced Security Testing**
